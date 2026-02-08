@@ -1,14 +1,14 @@
-**Experiment-2**
+# **Experiment-2**
 
-**Name: Jahnvi Shukla**
+## **Name: Jahnvi Shukla**
 
-**PRN: 250701231055**
+## **PRN: 250701231055**
 
-**Batch: EnTC A-3**
+## **Batch: EnTC A-3**
 
-**Title**
+## **Title**
 
-**Python Environment, Data Types, Operators, and Basic Input/Output**
+## **Python Environment, Data Types, Operators, and Basic Input/Output**
 
 **Aim**
 
